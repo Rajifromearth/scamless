@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const API_URL = 'https://scamless-backend.onrender.com'
+const API_URL = 'https://scamless-backend-gwdt.onrender.com'
 
 function LinkChecker() {
   const [url, setUrl] = useState('')
